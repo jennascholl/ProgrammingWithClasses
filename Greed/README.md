@@ -1,6 +1,2 @@
-# CSE 210 Prepare Projects (Articulate)
-This repo contains the complete source code for the CSE 210 preparation 
-assignments and the Articulate competency.
-
-It should be cloned by each person in the class and used as directed on the 
-prepare assignment page.
+# Overview
+This is Greed, a desktop game built with C# and Raylib. To play, move left and right along the bottom of the window to catch gems and dodge rocks.
