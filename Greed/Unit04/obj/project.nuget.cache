@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+S/2TGfnuvK7y0FG2O/8+HLo42soz+Zzp5i4j1UNhMAqNFvco5I102Fa7CfgKT9QYyS3OYY9EqCxDKACUJTj2w==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\CSE 210\\Greed\\Unit04\\Unit04.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jenna\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\jenna\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

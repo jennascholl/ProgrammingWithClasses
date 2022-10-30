@@ -1,0 +1,16 @@
+C:\Projects\CSE 210\Jumper\bin\Debug\net5.0\Jumper.exe
+C:\Projects\CSE 210\Jumper\bin\Debug\net5.0\Jumper.deps.json
+C:\Projects\CSE 210\Jumper\bin\Debug\net5.0\Jumper.runtimeconfig.json
+C:\Projects\CSE 210\Jumper\bin\Debug\net5.0\Jumper.runtimeconfig.dev.json
+C:\Projects\CSE 210\Jumper\bin\Debug\net5.0\Jumper.dll
+C:\Projects\CSE 210\Jumper\bin\Debug\net5.0\Jumper.pdb
+C:\Projects\CSE 210\Jumper\obj\Debug\net5.0\Jumper.csproj.AssemblyReference.cache
+C:\Projects\CSE 210\Jumper\obj\Debug\net5.0\Jumper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSE 210\Jumper\obj\Debug\net5.0\Jumper.AssemblyInfoInputs.cache
+C:\Projects\CSE 210\Jumper\obj\Debug\net5.0\Jumper.AssemblyInfo.cs
+C:\Projects\CSE 210\Jumper\obj\Debug\net5.0\Jumper.csproj.CoreCompileInputs.cache
+C:\Projects\CSE 210\Jumper\obj\Debug\net5.0\Jumper.dll
+C:\Projects\CSE 210\Jumper\obj\Debug\net5.0\refint\Jumper.dll
+C:\Projects\CSE 210\Jumper\obj\Debug\net5.0\Jumper.pdb
+C:\Projects\CSE 210\Jumper\obj\Debug\net5.0\Jumper.genruntimeconfig.cache
+C:\Projects\CSE 210\Jumper\obj\Debug\net5.0\ref\Jumper.dll
