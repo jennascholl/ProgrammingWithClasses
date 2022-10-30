@@ -1,6 +1,2 @@
-# CSE 210 Prepare Projects (Articulate)
-This repo contains the complete source code for the CSE 210 preparation 
-assignments and the Articulate competency.
-
-It should be cloned by each person in the class and used as directed on the 
-prepare assignment page.
+#Overview
+This is Cycle, a two-player variation on the popular game Snake. To play, use ASWD and JKIL to direct the snakes. The first player to collide with either snake's tail loses.
